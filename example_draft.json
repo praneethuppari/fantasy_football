@@ -1,0 +1,23 @@
+{
+    "round": 1,
+    "roster_id": 2,
+    "player_id": "4034",
+    "picked_by": "",
+    "pick_no": 1,
+    "metadata": {
+        "years_exp": "6",
+        "team": "SF",
+        "status": "Active",
+        "sport": "nfl",
+        "position": "RB",
+        "player_id": "4034",
+        "number": "23",
+        "news_updated": "1685410818914",
+        "last_name": "McCaffrey",
+        "injury_status": "",
+        "first_name": "Christian"
+      },
+      "is_keeper": null,
+      "draft_slot": 1,
+      "draft_id": "987176400882880512"
+}
